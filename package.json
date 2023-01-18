@@ -1,7 +1,7 @@
 {
   "name": "atomic-utils",
-  "version": "1.0.2",
-  "description": "atomic-state and http-react",
+  "version": "1.0.3",
+  "description": "atomic-state, http-react and react-kuh",
   "main": "index.js",
   "keywords": [],
   "author": "",
