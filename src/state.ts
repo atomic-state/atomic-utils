@@ -1,14 +1,16 @@
-export {
+export type {
   ActionType,
   ActionsObjectType,
   Atom,
   Filter,
   FilterGet,
   PersistenceStoreType,
+} from "atomic-state"
+
+export {
   AtomicState,
   atom,
   atomProvider,
-  createAtom,
   filter,
   filterProvider,
   getAtomValue,
@@ -22,4 +24,5 @@ export {
   useStorage,
   useStorageItem,
   useValue,
+  createAtomicHook,
 } from "atomic-state"
