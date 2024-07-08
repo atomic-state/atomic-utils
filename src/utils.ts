@@ -25,6 +25,7 @@ export {
   isFormData,
   getMiliseconds,
   jsonCompare,
+  queue,
 } from "http-react"
 
 export function deserialize<T = any>(
