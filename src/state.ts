@@ -24,4 +24,5 @@ export {
   stateProvider,
   store,
   create,
+  createPersistence,
 } from "atomic-state"
