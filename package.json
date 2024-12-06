@@ -1,6 +1,6 @@
 {
   "name": "atomic-utils",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "description": "atomic-state, http-react and react-kuh",
   "main": "dist/index.js",
   "keywords": [],
@@ -9,8 +9,8 @@
   "dependencies": {
     "atomic-state": "^2.9.97",
     "clsx": "^2.1.1",
-    "http-react": "^3.6.9",
+    "http-react": "^3.6.91",
     "react-kuh": "^0.1.2",
-    "tailwind-merge": "^2.5.2"
+    "tailwind-merge": "^2.5.5"
   }
 }
