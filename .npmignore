@@ -2,3 +2,4 @@ src
 .gitignore
 .npmignore
 tsconfig.json
+yarn.lock
