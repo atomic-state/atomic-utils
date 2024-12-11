@@ -1,6 +1,6 @@
 {
   "name": "atomic-utils",
-  "version": "1.4.95",
+  "version": "1.5.0",
   "description": "atomic-state, http-react and react-kuh",
   "main": "dist/index.js",
   "keywords": [],
@@ -8,9 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "atomic-state": "^2.9.97",
-    "clsx": "^2.1.1",
     "http-react": "^3.7.3",
-    "react-kuh": "^0.1.2",
-    "tailwind-merge": "^2.5.5"
+    "react-kuh": "^0.1.3"
   }
 }
