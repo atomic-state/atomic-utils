@@ -12,7 +12,7 @@ export {
   omitProperties,
   removeUndefinedProperties,
   modals,
-} from "react-kuh"
+} from "react-kuh";
 
 export {
   useStorage,
@@ -20,7 +20,7 @@ export {
   useStorageItem,
   session,
   storage,
-} from "atomic-state"
+} from "atomic-state";
 
 export {
   isDefined,
@@ -32,4 +32,4 @@ export {
   jsonCompare,
   queue,
   useIsomorphicLayoutEffect,
-} from "http-react"
+} from "http-react";

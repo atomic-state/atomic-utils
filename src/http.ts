@@ -60,6 +60,7 @@ export {
   $searchParams,
   $formData,
   fetchOptions,
+  revalidateKey,
 } from "http-react";
 
 export { default as useFetch } from "http-react";
