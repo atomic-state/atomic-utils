@@ -7,7 +7,7 @@
   "author": "Dany Beltran",
   "license": "MIT",
   "dependencies": {
-    "atomic-state": "^3.0.0",
+    "atomic-state": "^3.0.1",
     "http-react": "^3.7.5",
     "react-kuh": "^0.1.3"
   }
