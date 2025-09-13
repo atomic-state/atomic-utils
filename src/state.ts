@@ -23,4 +23,5 @@ export {
   setAtom,
   stateProvider,
   store,
+  create,
 } from "atomic-state"
