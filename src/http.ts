@@ -1,4 +1,4 @@
-export type { CacheStoreType, FetchInit } from "http-react"
+export type { CacheStoreType, FetchInit } from "http-react";
 
 export {
   Client,
@@ -59,6 +59,7 @@ export {
   useAction,
   $searchParams,
   $formData,
-} from "http-react"
+  fetchOptions,
+} from "http-react";
 
-export { default as useFetch } from "http-react"
+export { default as useFetch } from "http-react";
