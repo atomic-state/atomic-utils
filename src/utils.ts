@@ -26,7 +26,15 @@ export {
   getMiliseconds,
   jsonCompare,
   queue,
+  useIsomorphicLayoutEffect,
 } from "http-react"
+
+import { clsx, type ClassValue } from "clsx"
+import { twMerge } from "tailwind-merge"
+
+export function cn(...inputs: ClassValue[]) {
+  return twMerge(clsx(inputs))
+}
 
 export function deserialize<T = any>(
   text: string,
@@ -56,5 +64,3 @@ export function omitProperties<T extends object, K extends keyof T>(
 
   return newObj
 }
-
-export { useIsomorphicLayoutEffect } from "http-react"
