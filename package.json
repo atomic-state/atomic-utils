@@ -1,14 +1,14 @@
 {
   "name": "atomic-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "atomic-state, http-react and react-kuh",
   "main": "index.js",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "atomic-state": "^2.3.7",
-    "http-react": "^3.0.5",
+    "atomic-state": "^2.7.2",
+    "http-react": "^3.2.3",
     "react-kuh": "^0.1.0"
   }
 }
