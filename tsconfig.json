@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./",
+    "outDir": "./dist",
     "module": "CommonJS",
     "target": "es5",
     "lib": ["es6", "dom", "es2019"],
@@ -17,6 +17,6 @@
     "declaration": true
   },
   "include": ["src"],
-  "exclude": ["node_modules"],
+  "exclude": ["node_modules", "dist"],
   "types": ["typePatches"]
 }
