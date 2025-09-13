@@ -1,7 +1,8 @@
+export type { CacheStoreType, FetchInit } from "http-react"
+
 export {
-  CacheStoreType,
-  FetcherConfig,
-  FetcherInit,
+  Client,
+  FetchConfig,
   SSRSuspense,
   gql,
   mutateData,
@@ -14,9 +15,7 @@ export {
   useDELETE,
   useData,
   useError,
-  useFetch,
   useFetchId,
-  useFetcher,
   useGET,
   useGql,
   useHEAD,
@@ -33,3 +32,5 @@ export {
   useText,
   useUNLINK,
 } from "http-react"
+
+export { default } from "http-react"
