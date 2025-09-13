@@ -22,4 +22,5 @@ export {
   getValue,
   setAtom,
   stateProvider,
+  store,
 } from "atomic-state"

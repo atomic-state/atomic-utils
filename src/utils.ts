@@ -1,5 +1,6 @@
 export {
   BrowserOnly,
+  RenderList,
   useBoolean,
   useObject,
   useSecondRender,
@@ -16,7 +17,13 @@ export {
   storage,
 } from "atomic-state"
 
-export { isDefined, notNull, serialize, isFunction } from "http-react"
+export {
+  isDefined,
+  notNull,
+  serialize,
+  isFunction,
+  isFormData,
+} from "http-react"
 
 export function deserialize<T = any>(
   text: string,
@@ -25,4 +32,4 @@ export function deserialize<T = any>(
   return JSON.parse(text, reviver) as T
 }
 
-export { useIsomorphicLayoutEffect } from "http-react/dist/utils"
+export { useIsomorphicLayoutEffect } from "http-react"
