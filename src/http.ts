@@ -57,4 +57,4 @@ export {
   useServerMutation,
 } from "http-react"
 
-export { default } from "http-react"
+export { default as useFetch } from "http-react"
