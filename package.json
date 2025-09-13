@@ -8,7 +8,7 @@
   "license": "ISC",
   "dependencies": {
     "atomic-state": "^2.8.6",
-    "http-react": "^3.5.3",
+    "http-react": "^3.5.4",
     "react-kuh": "^0.1.1"
   }
 }
