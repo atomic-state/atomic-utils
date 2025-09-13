@@ -11,6 +11,7 @@ export {
   deserialize,
   omitProperties,
   removeUndefinedProperties,
+  modals,
 } from "react-kuh"
 
 export {
