@@ -12,6 +12,7 @@ export {
   omitProperties,
   removeUndefinedProperties,
   modals,
+  css,
 } from "react-kuh";
 
 export {
