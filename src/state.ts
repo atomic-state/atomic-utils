@@ -3,7 +3,7 @@ export type {
   ActionsObjectType,
   Atom,
   PersistenceStoreType,
-} from "atomic-state"
+} from "atomic-state";
 
 export {
   AtomicState,
@@ -25,4 +25,4 @@ export {
   store,
   create,
   createPersistence,
-} from "atomic-state"
+} from "atomic-state";
