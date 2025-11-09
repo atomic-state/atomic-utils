@@ -61,6 +61,7 @@ export {
   $formData,
   fetchOptions,
   revalidateKey,
+  LocalStorageCacheProvider,
 } from "http-react";
 
 export { default as useFetch } from "http-react";
