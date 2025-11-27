@@ -1,13 +1,13 @@
 {
   "name": "atomic-utils",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "atomic-state, http-react and react-kuh",
   "main": "dist/index.js",
   "keywords": [],
   "author": "Dany Beltran",
   "license": "MIT",
   "dependencies": {
-    "atomic-state": "^3.0.6",
+    "atomic-state": "^3.0.7",
     "http-react": "^3.9.0",
     "react-kuh": "^0.1.8"
   }
