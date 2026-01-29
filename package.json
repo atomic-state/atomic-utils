@@ -1,6 +1,6 @@
 {
   "name": "atomic-utils",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "description": "atomic-state, http-react and react-kuh",
   "main": "dist/index.js",
   "keywords": [],
